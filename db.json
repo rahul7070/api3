@@ -1,0 +1,353 @@
+[
+{
+"name": "Pepsi Black Can 330 ml",
+"type": "Veg",
+"price": 57,
+"description": "Pepsi Black Can 330 ml",
+"category": "beverages",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200113.jpg?ver=25.33",
+"id": "1"
+},
+{
+"name": "The Allu Arjun Combo",
+"type": "Non Veg",
+"price": 523,
+"description": "Enjoy 1pc Hot & Crispy Chicken, 1pc Smoky Red, Reg Popcorn, Spicy Mix Fries & a Dip",
+"category": "exclusive deal",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000240.jpg?ver=25.33",
+"id": "2"
+},
+{
+"name": "Peri Peri 10 Leg Pc & 4 Dips",
+"type": "Non Veg",
+"price": 924,
+"description": "Leg before any wicket! Save 27% on 10 Spicy Peri Peri Leg Pieces & 4 Dips",
+"category": "chicken bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000192.jpg?ver=25.33",
+"id": "3"
+},
+{
+"name": "Peri Peri 5 Leg Pc Meal",
+"type": "Non Veg",
+"price": 628,
+"description": "5 Spicy Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & 1 Pepsi 475ml",
+"category": "chicken bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000193.jpg?ver=25.33",
+"id": "4"
+},
+{
+"name": "Ultimate Savings Bucket",
+"type": "Non Veg",
+"price": 699,
+"description": "4pc Hot & Crispy, 6 Wings, 4 Strips, 2 Dips (20gm each) & 1 Pepsi 475ml",
+"category": "chicken bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000198.jpg?ver=25.33",
+"id": "5"
+},
+{
+"name": "Chicken Bucket for Two",
+"type": "Non Veg",
+"price": 599,
+"description": "combo of 2pc Hot & Crispy, 2 pc Smoky Red Chicken & Large Popcorn",
+"category": "chicken bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-403130.jpg?ver=25.33",
+"id": "6"
+},
+{
+"name": "Grilled Chicken - Smoky Red-5 pc",
+"type": "Non Veg",
+"price": 499,
+"description": "5pc Smoky red grilled chicken",
+"category": "chicken bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120187.jpg?ver=25.33",
+"id": "7"
+},
+{
+"name": "Chicken Chizza",
+"type": "Non Veg",
+"price": 299,
+"description": "Crunchy chicken topped with cheese, spicy sauce, veggies & herbs. All-chicken-no-crust pizza!",
+"category": "new launch",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000259.jpg?ver=25.33",
+"id": "8"
+},
+{
+"name": "Chicken Chizza & Choco Lava Combo",
+"type": "Non Veg",
+"price": 479,
+"description": "Favorite combo of Chizza, Choco Lava & Pepsi 475ml",
+"category": "new launch",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000264.jpg?ver=25.33",
+"id": "9"
+},
+{
+"name": "Chicken Chizza & Fries Combo",
+"type": "Non Veg",
+"price": 448,
+"description": "Delicious combo of Chizza, Medium Fries & Pepsi 475ml",
+"category": "new launch",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000263.jpg?ver=25.33",
+"id": "10"
+},
+{
+"name": "Solo Feast",
+"type": "Non Veg",
+"price": 399,
+"description": "Treat of 1 Hot & Crispy, 2 Strips, 2 Wings,1 Bun, 1 Dip(20gm) & 1 Pepsi 475ml",
+"category": "new launch",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000154.jpg?ver=25.33",
+"id": "11"
+},
+{
+"name": "Mega Feast",
+"type": "Non Veg",
+"price": 759,
+"description": "2 Hot & Crispy, 2 Smoky Red, 1 Bun, 1 Rice & gravy, Med Fries & 1 Pepsi 475ml",
+"category": "new launch",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000150.jpg?ver=25.33",
+"id": "12"
+},
+{
+"name": "Classic Biryani Combo",
+"type": "Non Veg",
+"price": 665,
+"description": "Large Biryani rice with 2 Hot & Crispy, 2 Gravies, 4 Strips & 1 Pepsi 475ml",
+"category": "biryani bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000069.jpg?ver=25.33",
+"id": "13"
+},
+{
+"name": "Popcorn Biryani Combo",
+"type": "Non Veg",
+"price": 690,
+"description": "Large Biryani & Chicken Popcorn, 2 Spicy Gravies, 4 Wings & 1 Pepsi 475ml",
+"category": "biryani bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000033.jpg?ver=25.33",
+"id": "14"
+},
+{
+"name": "Classic Chicken Biryani Bucket-Large",
+"type": "Non Veg",
+"price": 475,
+"description": "Large portions of our new Hyderabadi style Biryani rice served with 2 pc Hot & Crispy Chicken & 2 Gravies",
+"category": "biryani bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000028.jpg?ver=25.33",
+"id": "15"
+},
+{
+"name": "Popcorn Chicken Biryani Bucket -Large",
+"type": "Non Veg",
+"price": 475,
+"description": "Large portions of our new Hyderabadi style Biryani rice served with double portions of Popcorn & 2 Gravies",
+"category": "biryani bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000029.jpg?ver=25.33",
+"id": "16"
+},
+{
+"name": "Veg Biryani Bucket",
+"type": "Veg",
+"price": 188,
+"description": "New Hyderabadi style Biryani rice served with a crispy Veg Patty & a Spicy Gravy",
+"category": "biryani bucket",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000027.jpg?ver=25.33",
+"id": "17"
+},
+{
+"name": "All Chicken Box",
+"type": "Non Veg",
+"price": 189,
+"description": "A Box with your favorites! Get 1 pc Hot & Crispy, 2 Hot Wings & 1 Chicken Strip at a deal price",
+"category": "box meals",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000206.jpg?ver=25.33",
+"id": "18"
+},
+{
+"name": "Classic Zinger Box",
+"type": "Non Veg",
+"price": 313,
+"description": "A deal for Zinger lovers : Get 1 Classic Zinger, 2 Hot Wings, Veg Patty, 1 Pepsi 475ml",
+"category": "box meals",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404066.jpg?ver=25.33",
+"id": "19"
+},
+{
+"name": "Zinger Tandoori Box",
+"type": "Non Veg",
+"price": 313,
+"description": "A deal for Tandoori lovers : Get 1 Tandoori Zinger, 2 Hot Wings, 1 Veg Patty & 1 Pepsi 475ml",
+"category": "box meals",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404067.jpg?ver=25.33",
+"id": "20"
+},
+{
+"name": "Popcorn Biryani Box",
+"type": "Non Veg",
+"price": 328,
+"description": "Biryani lovers unite : Get 1 Popcorn Biryani Bucket with gravy, 2 Hot Wings & 1 Pepsi 475ml",
+"category": "box meals",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000035.jpg?ver=25.33",
+"id": "21"
+},
+{
+"name": "Veg Zinger Box",
+"type": "Veg",
+"price": 313,
+"description": "A deal for the Veg Zinger lovers : Get 1 Veg Zinger, 2 Veg Patties & 1 Pepsi 475ml",
+"category": "box meals",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404068.jpg?ver=25.33",
+"id": "22"
+},
+{
+"name": "Veg Biryani Box",
+"type": "Veg",
+"price": 279,
+"description": "Biryani lovers unite : Get 1 Veg Biryani Bucket with gravy, 1 Veg Patty & 1 Pepsi 475ml",
+"category": "box meals",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000036.jpg?ver=25.33",
+"id": "23"
+},
+{
+"name": "2 X Chicken Krisper Burgers",
+"type": "Non Veg",
+"price": 228,
+"description": "2 delicious chicken value burgers - at only 109 each!",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404096.jpg?ver=25.33",
+"id": "24"
+},
+{
+"name": "2 X Veg Krisper Burgers",
+"type": "Veg",
+"price": 158,
+"description": "2 delicious veg value burgers - at only 69 each!",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404093.jpg?ver=25.33",
+"id": "25"
+},
+{
+"name": "Chicken Krisper Burger Combo",
+"type": "Non Veg",
+"price": 519,
+"description": "Deal of 2 chicken value burgers, 2 Hot & Crispy, 2 dips (20gm each) & 1 Pepsi 475ml",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404098.jpg?ver=25.33",
+"id": "26"
+},
+{
+"name": "Chicken Zinger Burger - Tandoori",
+"type": "Non Veg",
+"price": 199,
+"description": "Chicken zinger with a delicious tandoori sauce",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404027.jpg?ver=25.33",
+"id": "27"
+},
+{
+"name": "Mixed Chicken Zinger Burger Doubles",
+"type": "Non Veg",
+"price": 348,
+"description": "Best-seller combo of classic chicken zinger & tandoori zinger",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404026.jpg?ver=25.33",
+"id": "28"
+},
+{
+"name": "Chicken Zinger Burger - Classic",
+"type": "Non Veg",
+"price": 189,
+"description": "Signature chicken burger made with a crunchy chicken fillet, veggies & a delicious mayo sauce",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-110201.jpg?ver=25.33",
+"id": "29"
+},
+{
+"name": "Chicken Burger Buddy Meal",
+"type": "Non Veg",
+"price": 499,
+"description": "Share 2 Classic Chicken Zingers & a Medium Popcorn in this delightful combo for 2",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-402625.jpg?ver=25.33",
+"id": "30"
+},
+{
+"name": "Veg Zinger",
+"type": "Veg",
+"price": 179,
+"description": "Signature veg burger with crispy patties, veggies & a tangy sauce",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-110003.jpg?ver=25.33",
+"id": "31"
+},
+{
+"name": "2 X Veg Krispers Burger Meal",
+"type": "Veg",
+"price": 268,
+"description": "2 veg value burgers, crispy medium fries & 2 delicious dips at a deal price!",
+"category": "burgers",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404094.jpg?ver=25.33",
+"id": "32"
+},
+{
+"name": "Chocolate Lava Cake",
+"type": "Veg",
+"price": 108,
+"description": "Soft Chocolate cake with a gooey center- perfect chocolaty end to every meal",
+"category": "desserts",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000223.jpg?ver=25.33",
+"id": "33"
+},
+{
+"name": "Chocolate Mud Pie",
+"type": "veg",
+"price": 128,
+"description": "Chocolate lovers unite! Say hello to our delicous, new, creamy chocolate & cake dessert- a must try!",
+"category": "desserts",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-160065.jpg?ver=25.33",
+"id": "34"
+},
+{
+"name": "Coffee Mousse Cake",
+"type": "veg",
+"price": 128,
+"description": "Coffee, chocolate, cake? what's not to love? Enjoy our delicious, new dessert for those coffee-licious",
+"category": "desserts",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-160067.jpg?ver=25.33",
+"id": "35"
+},
+{
+"name": "Pepsi PET",
+"type": "Veg",
+"price": 57,
+"description": "Pepsi PET",
+"category": "beverages",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200088.jpg?ver=25.33",
+"id": "36"
+},
+{
+"name": "7UP Can 330 ml",
+"type": "Veg",
+"price": 57,
+"description": "7UP Can 330 ml",
+"category": "beverages",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200111.jpg?ver=25.33",
+"id": "37"
+},
+{
+"name": "Pepsi Can 330 ml",
+"type": "Veg",
+"price": 57,
+"description": "Pepsi Can 330 ml",
+"category": "beverages",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200110.jpg?ver=25.33",
+"id": "38"
+},
+{
+"name": "Mirinda Can 330 ml",
+"type": "Veg",
+"price": 57,
+"description": "Mirinda Can 330 ml",
+"category": "beverages",
+"image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200112.jpg?ver=25.33",
+"id": "39"
+}
+]
